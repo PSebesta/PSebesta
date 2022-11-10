@@ -7,7 +7,7 @@ I'm a cloud/ security architect and content creator focusing on sharing my journ
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.youtube.com/channel/UCzcajvoquym6jGuxEPzbi1Q"><img width="32px" alt="Youtube" title="Youtube" src="https://imgur.com/hO9o2Tp"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  
   <a href="https://twitter.com/MyIT_Journey"><img width="32px" alt="Twitter" title="Twitter" src="https://imgur.com/skNTvXC"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/paul-sebesta/" alt="linkedin" title="linkedin"><img width="32px" src="https://imgur.com/avapCTg"/></a>
