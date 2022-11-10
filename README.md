@@ -1,4 +1,4 @@
-# Paul Sebesta 👽
+### Paul Sebesta 👽
 
 **`Cloud Architect - Cloud Secuiryt Architect - Devops: All Around Digital Craftsman (Documenting My IT Journey TO Help Others)`**
 
@@ -28,6 +28,9 @@ I'm a cloud/ security architect and content creator focusing on sharing my journ
 
 ---
 
+### 🔨 Tools and languages 🔧
+
+<img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
 Here are some ideas to get you started:
 
