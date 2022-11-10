@@ -2,21 +2,16 @@
 
 **`Cloud Architect - Cloud Secuiryt Architect - Devops: All Around Digital Craftsman (Documenting My IT Journey TO Help Others)`**
 
-I'm a cloud/ security architect content creator focusing on sharing my journey in all things IT. All my projects range from personal to full production and are built from the ground up, from whiteboarding and planning all the way to solving real world production problems with cloud, security, devops and everything inbetween. All website and video content is built in a similar fashion with a focus on sharign my journey to help other and also to learn myself.
+I'm a cloud/ security architect and content creator focusing on sharing my journey in all things IT. All my projects range from personal to full production and are built from the ground up, from whiteboarding and planning all the way to solving real world production problems with cloud, security, devops and everything inbetween. All website and video content is built in a similar fashion with a focus on sharign my journey to help other and also to learn myself.
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://www.youtube.com/channel/UCzcajvoquym6jGuxEPzbi1Q"><img width="32px" alt="Youtube" title="Youtube" src="https://imgur.com/hO9o2Tp"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="https://twitter.com/MyIT_Journey"><img width="32px" alt="Twitter" title="Twitter" src="https://imgur.com/skNTvXC"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://www.linkedin.com/in/paul-sebesta/" alt="linkedin" title="linkedin"><img width="32px" src="https://imgur.com/avapCTg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
 
 <!-- Social badges section -->
