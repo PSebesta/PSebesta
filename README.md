@@ -43,14 +43,14 @@ I'm a cloud/ security architect and content creator focusing on sharing my journ
 <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
 <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
-<!--<img align="left" alt="java" width="30px" style="padding-right:10px;" src="" />
-<img align="left" alt="java" width="30px" style="padding-right:10px;" src="" />
 
 #
 
-### Stats
+### 📶 Stats
 
 ![PSebesta's GitHub stats](https://github-readme-stats.vercel.app/api?username=PSebesta&show_icons=true&theme=synthwave)
+
+this is a test
 
 
 
