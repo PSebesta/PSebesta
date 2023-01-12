@@ -2,7 +2,7 @@
 
 **`Cloud Architect - Cloud Secuiryt Architect - Devops: All Around Digital Craftsman (Documenting My IT Journey TO Help Others)`**
 
-I'm a cloud/ security architect and content creator focusing on sharing my journey in all things IT. All my projects range from personal to full production and are built from the ground up, from whiteboarding and planning all the way to solving real world production problems with cloud, security, devops and everything inbetween. All website and video content is built in a similar fashion with a focus on sharign my journey to help other and also to learn myself.
+I'm a cloud/ security architect and content creator focusing on sharing my journey in all things IT. All my projects range from personal to full production and are built from the ground up, from whiteboarding and planning all the way to solving real world production problems with cloud, security, devops and everything inbetween. All website and video content is built in a similar fashion with a focus on sharing my journey to help others and also to learn myself.
 
 <!-- Social icons section -->
 <p align="center">
