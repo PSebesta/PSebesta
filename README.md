@@ -48,7 +48,7 @@ I'm a cloud/ security architect and content creator focusing on sharing my journ
 
 ### 📶 Stats
 
-![PSebesta's GitHub stats](https://github-readme-stats.vercel.app/api?username=PSebesta&show_icons=true&theme=synthwave)
+![PSebesta's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PSebesta&theme=radical)
 
 
 
