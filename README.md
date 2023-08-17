@@ -50,7 +50,7 @@ I'm a cloud/ security architect and content creator focusing on sharing my journ
 
 ![PSebesta's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PSebesta&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?psebesta=ryo-ma&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?PSebesta=ryo-ma&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
